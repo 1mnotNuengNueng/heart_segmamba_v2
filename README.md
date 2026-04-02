@@ -1,5 +1,8 @@
 # heart_segmamba_v2
 
+Dataset: https://drive.google.com/drive/folders/1AEbkkW-vcLik5GH-JnEHKIg_isNOtf8H?usp=drive_link
+Pretrained weights: https://drive.google.com/drive/folders/1RG5xrvHh2_OucuCkuWlLTsR1yjnAAjMp?usp=sharing
+
 This project performs semantic segmentation for cardiac MRI on the ACDC dataset. It includes the full workflow for:
 
 - environment setup
