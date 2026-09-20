@@ -3,7 +3,9 @@
 Dataset: https://drive.google.com/drive/folders/1AEbkkW-vcLik5GH-JnEHKIg_isNOtf8H?usp=drive_link
 Pretrained weights: https://drive.google.com/drive/folders/1RG5xrvHh2_OucuCkuWlLTsR1yjnAAjMp?usp=sharing
 
-This project performs semantic segmentation for cardiac MRI on the ACDC dataset. It includes the full workflow for:
+This project performs semantic segmentation for cardiac MRI on the ACDC dataset. This work is based on the research from [SegMamba-V2: Long-Range Sequential Modeling Mamba for Medical Image Segmentation](https://ieeexplore.ieee.org/document/11084842) and includes additional experiments and evaluations based on [Deep Learning Techniques for Automatic MRI Cardiac Multi-Structures Segmentation and Diagnosis: Is the Problem Solved?](https://ieeexplore.ieee.org/document/8360453).
+
+It includes the full workflow for:
 
 - environment setup
 - data preparation and preprocessing
